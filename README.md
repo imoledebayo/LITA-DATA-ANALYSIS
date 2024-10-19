@@ -1,11 +1,11 @@
 ## LITA CAPSTONE PROJECT 2024
 
 ### Table of content
-- [PROJECT OVERVIEW](project-overview)
-- [DATA SOURCE](data-source)
-- [TOOLS](tools)
-- [DATA CLEANING/PREPARATION](data-cleaning)
-- [EXPLORATORY DATA ANALYSIS(EDA)](exploratory-data)
+- [PROJECT OVERVIEW](#project-overview)
+- [DATA SOURCE](#data-source)
+- [TOOLS](#tools)
+- [DATA CLEANING](#data-cleaning)
+- [EXPLORATORY DATA ANALYSIS(EDA)](#exploratory-data-analysis)
 
 
 ### PROJECT OVERVIEW
