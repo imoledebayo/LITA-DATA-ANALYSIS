@@ -14,4 +14,8 @@ To analyze data in other to achieve insightful information like:
 - Top subscription plan
 - Top customers
 - Product with low sales
-- 
+
+### Analysis Tools
+- Excel
+- SQL; 
+- Power BI: Visualization
