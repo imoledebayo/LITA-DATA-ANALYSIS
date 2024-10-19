@@ -1,6 +1,12 @@
 ## LITA CAPSTONE PROJECT 2024
+
 ### Table of content
-[PROJECT OVERVIEW](project-overview)
+- [PROJECT OVERVIEW](project-overview)
+- [DATA SOURCE](data-source)
+- [TOOLS](tools)
+- [DATA CLEANING/PREPARATION](data-cleaning)
+- [EXPLORATORY DATA ANALYSIS(EDA)](exploratory-data)
+
 
 ### PROJECT OVERVIEW
 This data analysis aims to provide insights into the sales and subcription perfomance of a retail store for the past few years, by anayzing various aspect of the sales data i intend to find trends,gain deeper understanding of the companys performance
@@ -8,9 +14,20 @@ This data analysis aims to provide insights into the sales and subcription perfo
 ### DATA SOURCE
 In this project I will be working on data sets gathtered from two retail store: 
 - wears sales data set
-- subscription data set
+- subscription data set 
 
-### PROJECT AIM 
+### Tools
+- Excel: cleaning and generating reports
+- SQL: for queurying
+- Power BI: Visualization
+
+### DATA CLEANING/PREPARATION
+  
+  In the initial preparation phase, i performed the following tasks:
+  1. Data loading and inspection
+  2. Handling missing values
+
+### EXPLORATORY DATA ANALYSIS(EDA)
 To analyze data in other to achieve insightful information like:
 - Total revenue made from each region
 - Total revenue by products
@@ -21,13 +38,10 @@ To analyze data in other to achieve insightful information like:
 - Top customers
 - Product with low sales
 
-### Analysis Tools
-- Excel: cleaning and generating reports
-- SQL: for queurying
-- Power BI: Visualization
+### RESULT
+The analysis result are summarized as follows:
 
-  ### DATA CLEANING/PREPARATION
-  
-  In the initial preparation phase, i performed the following tasks:
-  1. Data loading and inspection
-  2. Handling missing values
+### RECOMMENDATION
+
+###
+
