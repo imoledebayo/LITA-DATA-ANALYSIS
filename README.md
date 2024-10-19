@@ -11,16 +11,16 @@
 
 
 ### PROJECT OVERVIEW
-This data analysis aims to provide insights into the sales and subcription perfomance of a retail store for the past few years, by anayzing various aspect of the sales data i intend to find trends,gain deeper understanding of the company's performance and give recommendationsonhow to improve sales. 
+This data analysis aims to provide insights into the sales and subscription performance of a retail store over the past few years. By analyzing various aspects of the sales data, I intend to find trends, gain a deeper understanding of the company's performance, and give recommendations on how to improve sales. 
 
 ### DATA SOURCE
-In this project I will be working on data sets gathtered from two retail store: 
+In this project, I will be working on data sets gathered from two retail stores: 
 - Wears sales data set
 - Subscription data set 
 
 ### Tools
 - Excel: cleaning and generating reports
-- SQL: for queurying
+- SQL: for querying
 - Power BI: Visualization
 
 ### DATA CLEANING/PREPARATION
@@ -32,7 +32,7 @@ In this project I will be working on data sets gathtered from two retail store:
 ### EXPLORATORY DATA ANALYSIS(EDA)
 To analyze data in other to achieve insightful information like:
 - Total revenue made from each region
-- Total revenue by products
+- Total revenue by-products
 - highest-selling product by total sales value.
 - Most sold product
 - Monthly and quarterly sales
