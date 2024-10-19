@@ -6,8 +6,8 @@
 - [TOOLS](#tools)
 - [DATA CLEANING](#data-cleaning)
 - [EXPLORATORY DATA ANALYSIS(EDA)](#exploratory-data-analysis)
-- [RESULT](result)
-- [RECOMMENDATION](recommendation)
+- [RESULT](#result)
+- [RECOMMENDATION](#recommendation)
 
 
 ### PROJECT OVERVIEW
