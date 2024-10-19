@@ -6,15 +6,17 @@
 - [TOOLS](#tools)
 - [DATA CLEANING](#data-cleaning)
 - [EXPLORATORY DATA ANALYSIS(EDA)](#exploratory-data-analysis)
+- [RESULT](result)
+- [RECOMMENDATION](recommendation)
 
 
 ### PROJECT OVERVIEW
-This data analysis aims to provide insights into the sales and subcription perfomance of a retail store for the past few years, by anayzing various aspect of the sales data i intend to find trends,gain deeper understanding of the companys performance
+This data analysis aims to provide insights into the sales and subcription perfomance of a retail store for the past few years, by anayzing various aspect of the sales data i intend to find trends,gain deeper understanding of the company's performance and give recommendationsonhow to improve sales. 
 
 ### DATA SOURCE
 In this project I will be working on data sets gathtered from two retail store: 
-- wears sales data set
-- subscription data set 
+- Wears sales data set
+- Subscription data set 
 
 ### Tools
 - Excel: cleaning and generating reports
