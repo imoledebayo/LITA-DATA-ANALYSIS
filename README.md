@@ -1,6 +1,6 @@
-# LITA-CAPSTONE-PROJECT
+## LITA CAPSTONE PROJECT 2024
 ## PROJECT OVERVIEW
-In this project i will be working on two retail data sets: 
+In this project I will be working on data sets from two retail store: 
 - wears sales data set
 - subscription data set
 
@@ -16,6 +16,6 @@ To analyze data in other to achieve insightful information like:
 - Product with low sales
 
 ### Analysis Tools
-- Excel
-- SQL; 
+- Excel: cleaning and generating reports
+- SQL: for queurying
 - Power BI: Visualization
