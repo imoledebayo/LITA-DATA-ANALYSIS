@@ -18,12 +18,12 @@ In this project, I will be working on data sets gathered from two retail stores:
 - Wears sales data set
 - Subscription data set 
 
-### Tools
+### TOOLS
 - Excel: cleaning and generating reports
 - SQL: for querying
 - Power BI: Visualization
 
-### DATA CLEANING/PREPARATION
+### DATA CLEANING
   
   In the initial preparation phase, i performed the following tasks:
   1. Data loading and inspection
