@@ -1,10 +1,10 @@
 ## LITA CAPSTONE PROJECT 2024
-## PROJECT OVERVIEW
+### PROJECT OVERVIEW
 In this project I will be working on data sets from two retail store: 
 - wears sales data set
 - subscription data set
 
-## PROJECT AIM 
+### PROJECT AIM 
 To analyze data in other to achieve insightful information like:
 - Total revenue made from each region
 - Total revenue by products
