@@ -5,7 +5,7 @@
 - [DATA SOURCE](#data-source)
 - [TOOLS](#tools)
 - [DATA CLEANING](#data-cleaning)
-- [EXPLORATORY DATA ANALYSIS(EDA)](#exploratory-data-analysis)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 - [RESULT](#result)
 - [RECOMMENDATION](#recommendation)
 
