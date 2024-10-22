@@ -27,7 +27,8 @@ In this project, I will be working on data sets gathered from two retail stores:
   
   In the initial preparation phase, i performed the following tasks:
   1. Data loading and inspection
-  2. Handling missing values
+  2. Data cleaning
+  3. Handling missing values
 
 ### EXPLORATORY DATA ANALYSIS(EDA)
 To analyze data in other to achieve insightful information like:
