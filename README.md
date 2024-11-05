@@ -41,6 +41,8 @@ To analyze data in other to achieve insightful information like:
 - Top customers
 - Product with low sales
 
+  
+
 ### RESULT
 The analysis result are summarized as follows:
 
