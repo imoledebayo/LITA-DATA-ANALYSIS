@@ -13,6 +13,9 @@
 ### PROJECT OVERVIEW
 This data analysis aims to provide insights into the sales and subscription performance of a retail store over the past few years. By analyzing various aspects of the sales data, I intend to find trends, gain a deeper understanding of the company's performance, and give recommendations on how to improve sales. 
 
+<img width="256" alt="Screenshot 2024-11-05 065544" src="https://github.com/user-attachments/assets/0e95f37d-0031-499f-9ac9-114f853d81ea">
+
+
 ### DATA SOURCE
 In this project, I will be working on data sets gathered from two retail stores: 
 - Wears sales data set
@@ -41,7 +44,8 @@ To analyze data in other to achieve insightful information like:
 - Top customers
 - Product with low sales
 
-  
+  <img width="210" alt="Screenshot 2024-11-05 065406" src="https://github.com/user-attachments/assets/6d931ef7-5ec0-411c-bb42-058f825b5907">
+
 
 ### RESULT
 The analysis result are summarized as follows:
