@@ -44,6 +44,13 @@ To analyze data in other to achieve insightful information like:
 - Product with low sales
 
   <img width="210" alt="Screenshot 2024-11-05 065406" src="https://github.com/user-attachments/assets/6d931ef7-5ec0-411c-bb42-058f825b5907">
+ 
+ #### TOTAL NUMBER OF PRODUCT SOLD IN EACH REGION
+     SELECT SUM(Quantity) AS TOTALPRODUCT,Region FROM [dbo].[LITA Capstone Sales Dataset] 
+      group by Region
+       order BY TOTALPRODUCT ASC 
+ 
+
 ### RESULT
 The analysis result are summarized as follows:
 
